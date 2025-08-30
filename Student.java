@@ -1,7 +1,7 @@
 
 /**
  * The Student class represents a student in a student administration system.
- * It holds the student details relevant in our context.
+ * It hoddlds the student details relevant in our context.
  * 
  * @author Michael Kölling and David Barnes
  * @version 7.0
